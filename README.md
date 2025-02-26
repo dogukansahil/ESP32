@@ -1,8 +1,9 @@
-# ESP32 OTA
+# ESP32 OTA (Over-the-air update)
 
 ## Wi-Fi Bağlantısı
 - ESP32, **STA modunda** Wi-Fi'ye bağlanır.
 - **Statik IP**: 192.168.1.66 (atanamazsa DHCP devreye girer).
+- ESP32 kablosuz uzaktan programlanabilir.
 
 ## OTA (Over-The-Air) Güncelleme
 - **ArduinoOTA** kütüphanesi ile OTA desteği.
