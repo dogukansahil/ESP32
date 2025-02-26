@@ -1,3 +1,6 @@
+Bu repo, **ESP32 ile ilgili çeşitli projeleri ve örnek kodları** içerir. Wi-Fi bağlantısı, OTA (Over-The-Air) güncellemeleri, sensör kullanımı ve diğer özelliklerle ilgili örnekler paylaşılacaktır.
+
+
 # ESP32 OTA (Over-the-air update)
 
 ## Wi-Fi Bağlantısı
